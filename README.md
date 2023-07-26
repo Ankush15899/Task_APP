@@ -14,4 +14,4 @@
 	2- rails credentials:edit
 	3- Add secret_key_base: your_encrypted_secret_key_here
 	After adding the desired secrets, save the file and close the text editor.
-6- Now test the apis.
+7- Now test the apis.
